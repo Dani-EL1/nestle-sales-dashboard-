@@ -1,24 +1,23 @@
-# Nestlé Sales Dashboard  
+# Nestlé Sales Analysis 📊  
 
-## 📊 Project Overview  
-This **Power BI dashboard** provides insights into **Nestlé sales trends, product performance, and regional distribution**.  
+## 📝 Project Overview  
+This **Excel-based sales analysis** examines **Nestlé’s revenue, product performance, sales channels, and regional distribution**. Using **data cleaning, pivot tables, and visualization techniques**, the report provides insights into sales trends and strategies for optimizing performance.  
 
 ## 🔍 Key Insights  
 - **Total Revenue:** $30.8M across all products.  
-- **Sales Performance:** Direct sales contributed **77%** of total revenue, while online sales accounted for **23%**.  
-- **Top Products:** Maggi and Milo generated the highest sales.  
-- **Regional Trends:** Sales were highest in **New South Wales and Victoria**.  
+- **Sales Performance:** **Direct sales (77%)** far outperformed **online sales (23%)**.  
+- **Top Products:** **Maggi and Milo** generated the highest sales.  
+- **Regional Trends:** **New South Wales & Victoria** led in sales, while other locations showed growth potential.  
 
 ## 📌 Recommendations  
-✔️ Increase marketing efforts for top-performing products.  
-✔️ Optimize online sales strategy to boost digital revenue.  
-✔️ Analyze seasonal trends for better inventory planning.  
+✔️ **Boost Online Sales** – Invest in digital ads, online promotions, and e-commerce partnerships.  
+✔️ **Regional Targeting** – Focus on **underperforming regions** with tailored marketing.  
+✔️ **Data-Driven Pricing** – Optimize pricing strategies to **leverage seasonal demand trends**.  
 
 ## 🚀 Tools Used  
-- **Power BI** – Data visualization and reporting  
-- **SQL** – Querying and analyzing sales data  
-- **Excel** – Data cleaning and transformation  
+- **Microsoft Excel** – Data cleaning, pivot tables, and visualizations  
+- **Data Analysis** – Identifying trends in revenue and sales performance  
+- **Business Strategy** – Developing recommendations for market expansion  
 
----
+🔗 **View My Portfolio:** [My Portfolio](https://www.datascienceportfol.io/olalereayomide2000)  
 
-### 🔗 View My Portfolio: [My Portfolio](https://www.datascienceportfol.io/olalereayomide2000)  
